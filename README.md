@@ -17,10 +17,6 @@ class Skills extends Desenvolvedor {
   frameworks = ['Springboot', 'SpringMVC', 'Intellj', 'Eclipse', 'PyCharm', 'VScode'];
 }
 ```
-       
-          
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-          
           
 
 <code><img height="60" alt="java"
@@ -48,14 +44,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wor
 </a>
 </p>
 
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=ismaelclebson" /></a>
 
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=clebson-silva"></a>
-
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
-
-</p>  
+<div align="left">
+  
+  <a href="https://www.linkedin.com/in/clebson-silva" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-ff3a5e?style=for-the-badge&logo=Linkedin&logoColor=FFF"/>
+  </a>
+  
+</div> 

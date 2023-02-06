@@ -47,7 +47,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg
 <div align="left">
   
   <a href="https://www.linkedin.com/in/clebson-silva" alt="Linkedin">
-     <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+     <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
   
 </div> 

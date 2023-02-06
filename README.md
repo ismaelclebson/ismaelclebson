@@ -33,13 +33,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wor
 
 ## **GitHub Estatísticas**
 
+<p align="center">
 <a href="https://github.com/ismaelclebson">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelclebson&theme=dracula&hide_langs_below=1" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ismaelclebson&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ismaelclebson&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-
-<a href="https://github.com/ismaelclebson">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ismaelclebson&show_icons=true&theme=dracula&line_height=27" alt="**CLEBSON SILVA** github stats"/>
-</a>
+</p>
 
 <p align="left">
   <a href="#" alt="Gmail">

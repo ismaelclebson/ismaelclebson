@@ -35,8 +35,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-w
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"></code>
              
 
-## **GitHub Estatísticas**
-
 <p align="center">
 <a href="https://github.com/ismaelclebson">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ismaelclebson&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>

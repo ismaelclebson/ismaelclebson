@@ -18,9 +18,6 @@ class Skills extends Desenvolvedor {
 }
 ```
           
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-          
-
 <code><img height="60" alt="java"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"></code>
 <code><img height="60" alt="python"
@@ -46,11 +43,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg
 </a>
 </p>
 
-
+          
 <div align="left">
   
   <a href="https://www.linkedin.com/in/clebson-silva" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-ff3a5e?style=for-the-badge&logo=Linkedin&logoColor=FFF"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
   
 </div> 

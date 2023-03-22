@@ -3,7 +3,7 @@ import Desenvolvedor from 'SeuNick';
 
 class SobreMim extends Desenvolvedor {
   nome     = 'Clebson Silva';
-  area    = ['Desenvolvedor BackEnd', 'Machine Learning', 'SOC'];
+  area    = ['Salesforce Adm -> Desenvolvedor','Ciência de Dados','NOC','Desenvolvedor BackEnd'];
   trabalho  = 'Solus-IT';
   local = 'Belém-PA';
   regimeDeTrabalho = ['Presencial', 'Remoto', 'Hidrido'];
@@ -17,7 +17,9 @@ class Skills extends Desenvolvedor {
   frameworks = ['Springboot', 'SpringMVC', 'Intellj', 'Eclipse', 'PyCharm', 'VScode'];
 }
 ```
-          
+
+<code><img height="60" alt="salesforce"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" /></code>
 <code><img height="60" alt="java"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"></code>
 <code><img height="60" alt="python"

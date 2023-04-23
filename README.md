@@ -3,7 +3,7 @@ import Desenvolvedor from 'SeuNick';
 
 class SobreMim extends Desenvolvedor {
   nome     = 'Clebson Silva';
-  area    = ['Salesforce Adm -> Desenvolvedor','Ciência de Dados','NOC','Desenvolvedor BackEnd'];
+  area    = ['Salesforce Adm -> Desenvolvedor','OutSystems Developer','Ciência de Dados','NOC','Desenvolvedor BackEnd'];
   trabalho  = 'Solus-IT';
   local = 'Belém-PA';
   regimeDeTrabalho = ['Presencial', 'Remoto', 'Hidrido'];

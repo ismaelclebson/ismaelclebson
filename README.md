@@ -14,7 +14,7 @@ class Skills extends Desenvolvedor {
   bibliotecasJava  = ['JPA', 'Hibernate', 'JBDC', 'Lambdas', 'Streams'];
   bibliotecasPython = ['numpy', 'matplotlib', 'pandas', 'Scipy', 'Scikit-learn', 'TensorFlow
                       ', 'Keras', 'PyTorch']
-  frameworks = ['Springboot', 'SpringMVC', 'Intellj', 'Eclipse', 'PyCharm', 'VScode'];
+  frameworks = ['ServiceStudio','Trailhead','Springboot', 'SpringMVC', 'Intellj', 'Eclipse', 'PyCharm', 'VScode'];
 }
 ```
 

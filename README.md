@@ -16,13 +16,10 @@ class Skills extends Desenvolvedor {
 }
 ```
 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"></code>
 <code><img height="60" alt="python"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"></code>
 <code><img height="60" alt="ruby"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg"></code>
-<code><img height="60" alt="git"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"></code>
 <code><img height="60" alt="github"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"></code>
 <code><img height="60" alt="mysql"

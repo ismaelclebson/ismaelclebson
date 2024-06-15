@@ -3,8 +3,8 @@ import Desenvolvedor from 'SeuNick';
 
 class SobreMim extends Desenvolvedor {
   nome     = 'Clebson Silva';
-  area    = ['Ciência de Dados', 'MLOps', 'OutSystems Developer'];
-  trabalho  = 'Yasnitech';
+  area    = ['Ciência de Dados', 'Machine Learning', 'BI Analytics', 'OutSystems Developer'];
+  trabalho  = 'DataEX';
   local = 'Belém-PA';
   regimeDeTrabalho = ['Remoto', 'Hidrido'];
 }

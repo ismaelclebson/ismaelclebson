@@ -4,7 +4,7 @@ import Desenvolvedor from 'SeuNick';
 class SobreMim extends Desenvolvedor {
   nome     = 'Clebson Silva';
   area    = ['Ciência de Dados', 'Machine Learning', 'BI Analytics', 'OutSystems Developer'];
-  trabalho  = 'DataEX';
+  trabalho  = 'Remap Geotecnologia';
   local = 'Belém-PA';
   regimeDeTrabalho = ['Remoto', 'Hidrido'];
 }

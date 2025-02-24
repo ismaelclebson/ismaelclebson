@@ -6,7 +6,7 @@ class SobreMim extends Desenvolvedor {
   area    = ['Ciência de Dados', 'Machine Learning', 'BI Analytics', 'OutSystems Developer'];
   trabalho  = 'Remap Geotecnologia';
   local = 'Belém-PA';
-  regimeDeTrabalho = ['Remoto', 'Hidrido'];
+  regimeDeTrabalho = ['Remoto'];
 }
 
 class Skills extends Desenvolvedor {
@@ -18,8 +18,6 @@ class Skills extends Desenvolvedor {
 
 <code><img height="60" alt="python"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"></code>
-<code><img height="60" alt="ruby"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg"></code>
 <code><img height="60" alt="github"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"></code>
 <code><img height="60" alt="mysql"
